@@ -1,0 +1,25 @@
+@media(max-width:650px){
+    .p1{
+        width: max-content;
+        margin-left: 30px;
+        
+    }
+}
+@media(max-width:650px){
+    .p2{
+        margin-left: 30px;
+        
+    }
+}
+/* @media(max-width:650px){
+    .pa1{
+        margin-left: 30px;
+        
+    } */
+}
+/* @media(max-width:650px){
+    .backg{
+        width: 800px;
+        
+    }
+} */
